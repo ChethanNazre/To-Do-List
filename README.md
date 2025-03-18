@@ -1,4 +1,4 @@
-# Project 1/10 - To-Do List
+# Project 1/5 - To-Do List
 
 A simple To-Do List application built using **HTML, CSS, and JavaScript**, allowing users to add tasks, delete tasks, and mark tasks as done.
 
