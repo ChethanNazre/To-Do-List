@@ -14,7 +14,7 @@ A simple To-Do List application built using **HTML, CSS, and JavaScript**, allow
 - **JavaScript**: Functionality and interactivity
 
 ## How to Use
-1. Open the `Todo.html` file in your web browser.
+1. Open the `index.html` file in your web browser.
 2. Type a new task in the input field and click the **Add Task** button.
 3. Click on a task to mark it as **done**.
 4. Click the **Delete** button next to a task to remove it.
@@ -23,7 +23,7 @@ A simple To-Do List application built using **HTML, CSS, and JavaScript**, allow
 1. Install **Visual Studio Code** from [here](https://code.visualstudio.com/).
 2. Clone or download the project repository.
 3. Open VS Code and go to **File > Open Folder**, then select the project folder.
-4. Open `Todo.html` and click **Go Live** (if using the Live Server extension) or simply open it in your browser.
+4. Open `index.html` and click **Go Live** (if using the Live Server extension) or simply open it in your browser.
 
 ## Future Enhancements
 - Add local storage to save tasks.
